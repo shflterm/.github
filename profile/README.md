@@ -6,10 +6,6 @@
 - UX that can be understood at once
 - With AI, Natural Language Processing
 
-## Contributing to Shuffle
-1. Fork the [shflterm/shuffle](https://github.com/shflterm/shuffle)
-2. Make as many changes as you want, and then commit.
-3. Return to [shflterm/shuffle](https://github.com/shflterm/shuffle) and enter the 'Pull requests' tab to create 'pull request'.
-4. Wait for the feedback.
+## [Contributing to Shuffle](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
 #### Did you find the issue? Please report [here](https://github.com/shflterm/shuffle/issues/new/choose)!
