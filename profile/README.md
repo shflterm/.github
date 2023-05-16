@@ -4,7 +4,7 @@
 ## Features of Shuffle
 - Easy to use for beginners and experts alike
 - UX that can be understood at once
-- With AI, Natural Language Processing
+- With AI, Natural Language Processing (Pro only)
 
 ## [Contributing to Shuffle](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
